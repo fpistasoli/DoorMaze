@@ -1,0 +1,13 @@
+TAREAS DOOR MAZE:
+
+- Door.cs:
+UpdateSpriteIfOpen: poner en transparente una fraccion de la puerta para que simule estar abierta (usar alpha color y ver de usar localscale o algo asi, con un foreground y un background)
+
+- Crear escenas por nivel
+- Sacar UI del main menu y levelcompletemenu por el momento
+- Skills: Teleport y Rewind
+
+
+
+
+

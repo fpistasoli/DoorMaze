@@ -1,0 +1,20 @@
+
+Flujo del programa al chocar con la Gema:
+
+1. GameManager.sharedInstance.LevelComplete()
+
+2. GameManager.sharedInstance.LoadNextLevel()
+
+3. ViewMainMenu.sharedInstance.EnableNextLevel()
+
+4. GameManager.sharedInstance.LoadNextLevel()
+
+5. ViewMainMenu.sharedInstance.LoadScene()
+
+6. GameManager.sharedInstance.StartGame()
+
+7. PlayerController.sharedInstance.StartGame();
+
+
+
+
